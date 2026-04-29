@@ -21,11 +21,11 @@ class Mahasiswa {
 }
 
 $daftar_mhs = [
-    new Mahasiswa("Ahmad Dani", "F1D02410140", 85, 90),
-    new Mahasiswa("Ardi", "F1D02410141", 55, 60),
+    new Mahasiswa("Dani", "F1D02410140", 85, 90),
+    new Mahasiswa("Rendi", "F1D02410141", 55, 60),
     new Mahasiswa("Ikky", "F1D02410142", 70, 75),
-    new Mahasiswa("Budi", "F1D02410143", 45, 50),
-    new Mahasiswa("Siti", "F1D02410144", 90, 85)
+    new Mahasiswa("Akbar", "F1D02410143", 55, 50),
+    new Mahasiswa("Zaki", "F1D02410144", 90, 85)
 ];
 
 $total_na = 0;
